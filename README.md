@@ -1,7 +1,7 @@
 # mathsingaround
 when i mess around with maths or physics and don't have anything important come out of it, i put it here
 
-
+## list:
 ### samplingthing.pdf:
 
 almost a letter to Alex Pine.
@@ -19,3 +19,9 @@ sth like a letter to Alex Pine.
 he said this is a white noise (time-uncorrelated) example of correlated time series. and that he has never seen "measurement errors" in the time series. so unphysicist of them - the statisticians.
 
 dated - 01.12.2023.
+
+
+### ellipse:
+
+IS NOT HERE YET
+analysing the potentials that make elliptic orbits.
